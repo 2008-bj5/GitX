@@ -1,3 +1,3 @@
 # GitX
 
-akulo.
+AKULO.
